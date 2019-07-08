@@ -1,0 +1,18 @@
+{
+    "name": "zhangmengqi/aliyunsdk",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+	"require-dev": {
+        "php": ">=5.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhangmengqi",
+            "email": "542018543@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"，
+}
