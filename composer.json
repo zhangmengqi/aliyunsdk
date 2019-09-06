@@ -1,5 +1,5 @@
 {
-    "name": "zhangmengqi1/aliyunsdk",
+    "name": "zhangmengqi/aliyunsdk",
     "type": "library",
     "require": {
         "php": ">=5.4.0"
@@ -7,6 +7,11 @@
 	"require-dev": {
         "php": ">=5.4"
     },
+	"autoload": {
+    	"files":[
+		   "zhangmengqi/aliyunsdk/aliyun-php-sdk/aliyun-php-sdk-core/Config.php"
+		]
+    }
     "license": "MIT",
     "authors": [
         {
