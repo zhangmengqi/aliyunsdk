@@ -1,5 +1,5 @@
 {
-    "name": "zhangmengqi/aliyunsdk",
+    "name": "zhangmengqi1/aliyunsdk",
     "type": "library",
     "require": {
         "php": ">=5.4.0"
