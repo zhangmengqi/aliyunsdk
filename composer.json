@@ -11,7 +11,7 @@
     	"files":[
 		   "zhangmengqi/aliyunsdk/aliyun-php-sdk/aliyun-php-sdk-core/Config.php"
 		]
-    }
+    },
     "license": "MIT",
     "authors": [
         {
